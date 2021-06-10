@@ -66,6 +66,7 @@ button {
   outline: none;
   cursor: pointer;
   font-family: "Lexend Deca";
+  background-color: white;
 }
 
 button.sedans {
